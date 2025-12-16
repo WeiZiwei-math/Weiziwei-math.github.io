@@ -1,0 +1,123 @@
+baseURL = "https://weiziwei-math.github.io/"
+title = "Ziwei Wei"
+theme = "FixIt"
+defaultContentLanguage = "en"
+
+[languages.en]
+  weight = 1
+  languageCode = "en"
+  languageName = "English"
+  title = "Ziwei Wei"
+  
+  [[languages.en.menu.main]]
+    identifier = "home"
+    name = "Home"
+    url = "/"
+    weight = 1
+  [[languages.en.menu.main]]
+    identifier = "research"
+    name = "Research"
+    url = "/research/"
+    weight = 2
+  [[languages.en.menu.main]]
+    identifier = "notes"
+    name = "Notes"
+    url = "/notes/"
+    weight = 2
+  [[languages.en.menu.main]]
+    identifier = "links"
+    name = "Links"
+    url = "/links/"
+    weight = 3
+  
+
+[languages.zh-cn]
+  weight = 2
+  languageCode = "zh-cn"
+  languageName = "简体中文"
+  title = "魏子惟"
+  # 中文菜单可以在这里类似配置...
+
+
+  [[languages.zh-cn.menu.main]]
+      identifier = "home"
+      name = "首页"
+      url = "/"
+      weight = 1
+  [[languages.zh-cn.menu.main]]
+      identifier = "research"
+      name = "研究"
+      url = "/research/"
+      weight = 2
+  [[languages.zh-cn.menu.main]]
+    identifier = "notes"
+    name = "笔记"
+    url = "/notes/"
+    weight = 3
+  [[languages.zh-cn.menu.main]]
+    identifier = "links"
+    name = "一些链接"
+    url = "/links/"
+    weight = 4
+
+# -----------------------------------------------------------
+# 全局参数配置
+# -----------------------------------------------------------
+# -----------------------------------------------------------
+# 渲染核心配置 (必须加上这段，数学和表格才能正常！)
+# -----------------------------------------------------------
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.extensions]
+      # ⚠️ 注意：这里不能写 passthrough = true，因为它在下面被定义为了一个 table
+      definitionList = true
+      footnote = true
+      linkify = true
+      strikethrough = true
+      table = true
+      taskList = true
+      typographer = true
+      
+    [markup.goldmark.renderer]
+      unsafe = true  # 允许 HTML（解决表格问题）
+
+  # 专门配置 passthrough (解决数学公式问题)
+  [markup.goldmark.extensions.passthrough]
+    enable = true
+    [markup.goldmark.extensions.passthrough.delimiters]
+      block = [['$$', '$$'], ['\\[', '\\]']]
+      inline = [['$', '$'], ['\\(', '\\)']]
+
+
+
+# -----------------------------------------------------------
+# 确保数学参数开启
+# -----------------------------------------------------------
+
+
+
+[params]
+  defaultTheme = "auto"
+
+[params.footer]
+  enable = true
+  copyright = true
+  author = true
+  since = 2019
+
+[params.page.math]
+  enable = true
+  # 默认使用 KaTeX，渲染速度快
+  type = "katex"
+
+[params.home.profile]
+  enable = true
+  avatarURL = ""
+  typeit = false
+  social = false  #  改成 false，隐藏顶部的社交图标行
+
+# -----------------------------------------------------------
+# 如果想彻底关掉 RSS 图标，还可以加上这个配置：
+# -----------------------------------------------------------
+[outputs]
+  home = ["HTML"] # 去掉了 "RSS"，这样那个 WiFi 图标就彻底没了

@@ -1,0 +1,27 @@
+/* 1. 强制页面大标题左对齐 */
+.single .single-title,
+.page .single-title {
+    text-align: left !important;
+    justify-content: flex-start !important;
+    display: block !important;
+    width: 100% !important;
+}
+
+/* 2. 强制副标题（日期、字数等）左对齐 */
+.single .post-meta {
+    justify-content: flex-start !important;
+    text-align: left !important;
+}
+
+/* 3. 防止某些容器自带的居中或右对齐 */
+.container, .page-header {
+    text-align: left !important;
+    align-items: flex-start !important;
+}
+
+/* 隐藏标题右上角的文章计数数字 */
+.page-header h1 sup,
+.page .single-title sup,
+.archive-page .page-header sup {
+    display: none !important;
+}
