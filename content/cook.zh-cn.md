@@ -1,5 +1,5 @@
 ---
-title: "Cooking"
+title: "魏公家今天的饭"
 
 type: "page"             # 建议加上：明确告诉 Hugo 这是一个独立页面，不是博客文章
 hideMeta: true           # 关键代码：隐藏作者、日期、阅读时间等信息
