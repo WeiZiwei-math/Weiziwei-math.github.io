@@ -11,24 +11,24 @@ comment: true
 ## 家常菜
 
 
-  ![清汤圆子](/cooking/yuanzi.jpeg)
-  ![炸酱面](/cooking/zhajiangmian.jpg)
-  ![牛杂煲](/cooking/niuza.jpeg)
-  ![牛肉面](/cooking/niuroumian.jpg)
-  ![红烧鱼](/cooking/hongshaoyu.jpg)
-  ![红烧肉](/cooking/hongshaorou.jpg)
+  ![清汤圆子](/cooking/yuanzi.jpeg "清汤圆子")
+  ![炸酱面](/cooking/zhajiangmian.jpg "炸酱面")
+  ![牛杂煲](/cooking/niuza.jpeg "牛杂煲")
+  ![牛肉面](/cooking/niuroumian.jpg "牛肉面")
+  ![红烧鱼](/cooking/hongshaoyu.jpg "红烧鱼")
+  ![红烧肉](/cooking/hongshaorou.jpg "红烧肉")
 
 
 ## 鲁菜
 
 
-  ![芫爆里脊丝](/cooking/yan.jpeg)
+  ![芫爆里脊丝](/cooking/yan.jpeg "芫爆里脊丝")
 
 
 ## 湘菜
 
 
-  ![东安仔鸡](/cooking/ziji.jpeg)
+  ![东安仔鸡](/cooking/ziji.jpeg "东安仔鸡")
 
 ## 淮扬菜
 
@@ -40,6 +40,6 @@ comment: true
 ## 川菜
 
 
-  <img src="/cooking/chinese/yuer.jpeg" alt="芋儿鸡">
-  <img src="/cooking/chinese/maoxuewang.jpg" alt="毛血旺">
-  <img src="/cooking/chinese/baicai.jpeg" alt="开水白菜(丐版)">
+  <img src="/cooking/yuer.jpeg" alt="芋儿鸡">
+  <img src="/cooking/maoxuewang.jpg" alt="毛血旺">
+  <img src="/cooking/baicai.jpeg" alt="开水白菜(丐版)">
