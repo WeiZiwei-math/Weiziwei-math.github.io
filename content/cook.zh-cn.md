@@ -11,29 +11,29 @@ comment: true
 ## 家常菜
 
 
-  ![清汤圆子](/cooking/chinese/yuanzi.jpeg)
-  ![炸酱面](/cooking/chinese/zhajiangmian.jpg)
-  ![牛杂煲](/cooking/chinese/niuza.jpeg)
-  ![牛肉面](/cooking/chinese/niuroumian.jpg)
-  ![红烧鱼](/cooking/chinese/hongshaoyu.jpg)
-  ![红烧肉](/cooking/chinese/hongshaorou.jpg)
+  ![清汤圆子](/cooking/yuanzi.jpeg)
+  ![炸酱面](/cooking/zhajiangmian.jpg)
+  ![牛杂煲](/cooking/niuza.jpeg)
+  ![牛肉面](/cooking/niuroumian.jpg)
+  ![红烧鱼](/cooking/hongshaoyu.jpg)
+  ![红烧肉](/cooking/hongshaorou.jpg)
 
 
 ## 鲁菜
 
 
-  ![芫爆里脊丝](/cooking/chinese/yan.jpeg)
+  ![芫爆里脊丝](/cooking/yan.jpeg)
 
 
 ## 湘菜
 
 
-  ![东安仔鸡](/cooking/chinese/ziji.jpeg)
+  ![东安仔鸡](/cooking/ziji.jpeg)
 
 ## 淮扬菜
 
 
-  ![东坡肉](/cooking/chinese/dongporou.jpg "东坡肉(淮扬菜版)")
+  ![东坡肉](/cooking/dongporou.jpg "东坡肉(淮扬菜版)")
 
 
 
