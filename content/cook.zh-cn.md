@@ -28,7 +28,7 @@ comment: true
 ## 湘菜
 
 
-  ![东安仔鸡](/cooking/ziji.jpeg "东安仔鸡")
+  ![东安仔鸡](/cooking/ziji.jpg "东安仔鸡")
 
 ## 淮扬菜
 
