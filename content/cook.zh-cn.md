@@ -1,44 +1,40 @@
 ---
 title: "魏公家今天的饭"
-
-type: "page"             # 建议加上：明确告诉 Hugo 这是一个独立页面，不是博客文章
-hideMeta: true           # 关键代码：隐藏作者、日期、阅读时间等信息
-hiddenFromHomePage: true # 建议加上：不要让 Research 出现在首页的“最近文章”列表里
+type: "page"
+hideMeta: true
+hiddenFromHomePage: true
+comment: true
 ---
-
 
 数学以外, 我最大的爱好就是烹饪. 我将不定期在此页面展示我满意的作品.
 
 ## 家常菜
 
 {{< gallery >}}
-  <img src="/cooking/chinese/yuanzi.jpeg" alt="清汤圆子">
-  <img src="/cooking/chinese/zhajiangmian.jpg" alt="炸酱面">
-  <img src="/cooking/chinese/niuza.jpeg" alt="牛杂煲">
-  <img src="/cooking/chinese/niuroumian.jpg" alt="牛肉面">
-  <img src="/cooking/chinese/hongshaoyu.jpg" alt="红烧鱼">
-  <img src="/cooking/chinese/hongshaorou.jpg" alt="红烧肉">
+  ![清汤圆子](/cooking/chinese/yuanzi.jpeg)
+  ![炸酱面](/cooking/chinese/zhajiangmian.jpg)
+  ![牛杂煲](/cooking/chinese/niuza.jpeg)
+  ![牛肉面](/cooking/chinese/niuroumian.jpg)
+  ![红烧鱼](/cooking/chinese/hongshaoyu.jpg)
+  ![红烧肉](/cooking/chinese/hongshaorou.jpg)
 {{< /gallery >}}
-
 
 ## 鲁菜
 
 {{< gallery >}}
-  <img src="/cooking/chinese/yan.jpeg" alt="芫爆里脊丝">
+  ![芫爆里脊丝](/cooking/chinese/yan.jpeg)
 {{< /gallery >}}
 
 ## 湘菜
 
 {{< gallery >}}
-  <img src="/cooking/chinese/ziji.jpeg" alt="东安仔鸡">
+  ![东安仔鸡](/cooking/chinese/ziji.jpeg)
 {{< /gallery >}}
-
-
 
 ## 淮扬菜
 
 {{< gallery >}}
-   <img src="/cooking/chinese/dongporou.jpg" alt="东坡肉(淮扬菜版)">
+  ![东坡肉](/cooking/chinese/dongporou.jpg "东坡肉(淮扬菜版)")
 {{< /gallery >}}
 
 
