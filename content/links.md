@@ -11,6 +11,6 @@ Here are links to some of my friends:
 * [Chi Zhang](https://chizhang-pmo.github.io/my_website/)
 * [Bowen Liu](https://bowenl-math.github.io/)
 * [Yining Chen](https://yining-math.github.io/)
-* [Guorui Xu](https://rucurie.github.io/Guorui-Xu/)
+* [Guorui Xu](https://guoruixu.github.io/)
 * [Xiaolong Liu](https://sites.google.com/view/xiaolongliu-math/homepage)
 * [Haoyuan Geng](https://nicolaskeng.github.io/)
