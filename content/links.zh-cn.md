@@ -11,6 +11,6 @@ hiddenFromHomePage: true # 建议加上：不要让 Research 出现在首页的�
 * [张弛](https://chizhang-pmo.github.io/my_website/)
 * [刘博文](https://bowenl-math.github.io/)
 * [陈一宁](https://yining-math.github.io/)
-* [徐国瑞](https://rucurie.github.io/Guorui-Xu/)
+* [徐国瑞](https://guoruixu.github.io/)
 * [刘晓龙](https://sites.google.com/view/xiaolongliu-math/homepage)
 * [耿浩源](https://nicolaskeng.github.io/)
