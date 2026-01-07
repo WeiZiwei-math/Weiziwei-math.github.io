@@ -39,7 +39,7 @@ comment: true
 
 ## 川菜
 
+![芋儿鸡](/cooking/yuer.jpeg "芋儿鸡")
+![毛血旺](/cooking/maoxuewang.jpg "毛血旺")
+![开水白菜(丐版)](/cooking/baicai.jpeg "开水白菜(丐版)")
 
-  <img src="/cooking/yuer.jpeg" alt="芋儿鸡">
-  <img src="/cooking/maoxuewang.jpg" alt="毛血旺">
-  <img src="/cooking/baicai.jpeg" alt="开水白菜(丐版)">
