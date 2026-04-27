@@ -31,7 +31,7 @@ description: "Ziwei Wei's Homepage"
 
 ## 联系方式
 
-* **Email:** 前方的区域, 请以后再来探索吧!
+* **Email:** [名字拼音].[姓氏拼音] [at] phd.unipi.it.
 
 * **Address:** Dipartimento di Matematica  Largo B. Pontecorvo, 5  56127 Pisa, Italy
 
