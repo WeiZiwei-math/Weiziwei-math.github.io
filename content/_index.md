@@ -31,7 +31,7 @@ In general, I am interested in all mathematics inspired by theoretical physics.
 
 ## Contact
 
-* **Email:** will be released soon.
+* **Email:** [first name].[Family name] [at] phd.unipi.it
 
 * **Address:** Dipartimento di Matematica  Largo B. Pontecorvo, 5  56127 Pisa, Italy
 
